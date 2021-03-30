@@ -19,7 +19,7 @@ public class CreateIapProductUsingTransporter {
 
     public static final String appleId = Constants.appleId;
     public static final String appSpecificPassword = Constants.appSpecificPassword;
-    public static final String vendorId = Constants.appSpecificPassword;
+    public static final String vendorId = Constants.vendorId;
 
     private static final String itmspDestination = Constants.itmspDestination;
     public static final String xmlFilePath = Constants.xmlFilePath;
